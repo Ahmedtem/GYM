@@ -1,0 +1,6 @@
+{
+  "name": "نظام إدارة اشتراكات الجيم والولاء",
+  "description": "برنامج Monster Gym لإدارة مشتركي الجيم، تنبيهات انتهاء الاشتراك، برنامج ولاء الـ 6 أشهر، وحفظ واسترجاع البيانات للماك والويندوز وجوجل درايف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
